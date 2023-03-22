@@ -1,0 +1,2896 @@
+('F:\\Office\\Office WiP\\Apps\\deh\\deh\\build\\vasiko\\vasiko.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True},
+ [('PYZ-00.pyz',
+   'F:\\Office\\Office WiP\\Apps\\deh\\deh\\build\\vasiko\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'F:\\Office\\Office '
+   'WiP\\Apps\\deh\\deh\\build\\vasiko\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'F:\\Office\\Office '
+   'WiP\\Apps\\deh\\deh\\build\\vasiko\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'F:\\Office\\Office '
+   'WiP\\Apps\\deh\\deh\\build\\vasiko\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'F:\\Office\\Office '
+   'WiP\\Apps\\deh\\deh\\build\\vasiko\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'F:\\Office\\Office '
+   'WiP\\Apps\\deh\\deh\\build\\vasiko\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'F:\\Office\\Office '
+   'WiP\\Apps\\deh\\env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'F:\\Office\\Office '
+   'WiP\\Apps\\deh\\env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'F:\\Office\\Office '
+   'WiP\\Apps\\deh\\env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'F:\\Office\\Office '
+   'WiP\\Apps\\deh\\env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('vasiko', 'F:\\Office\\Office WiP\\Apps\\deh\\deh\\vasiko.py', 'PYSOURCE'),
+  ('api-ms-win-crt-math-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-stdio-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
+  ('python38.dll', 'C:\\Python38\\python38.dll', 'BINARY'),
+  ('VCRUNTIME140.dll', 'C:\\Python38\\VCRUNTIME140.dll', 'BINARY'),
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-heap-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('ucrtbase.dll', 'C:\\WINDOWS\\system32\\ucrtbase.dll', 'BINARY'),
+  ('api-ms-win-crt-environment-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-environment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-time-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-time-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-filesystem-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-convert-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-conio-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-console-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-console-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-profile-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-namedpipe-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-debug-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-debug-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-file-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-util-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-util-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-heap-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-2-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-synch-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-timezone-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-errorhandling-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l2-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'BINARY'),
+  ('libopenblas64__v0.3.21-gcc_10_3_0.dll',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\numpy\\.libs\\libopenblas64__v0.3.21-gcc_10_3_0.dll',
+   'BINARY'),
+  ('_ctypes.pyd', 'C:\\Python38\\DLLs\\_ctypes.pyd', 'EXTENSION'),
+  ('select.pyd', 'C:\\Python38\\DLLs\\select.pyd', 'EXTENSION'),
+  ('_hashlib.pyd', 'C:\\Python38\\DLLs\\_hashlib.pyd', 'EXTENSION'),
+  ('_queue.pyd', 'C:\\Python38\\DLLs\\_queue.pyd', 'EXTENSION'),
+  ('_lzma.pyd', 'C:\\Python38\\DLLs\\_lzma.pyd', 'EXTENSION'),
+  ('_bz2.pyd', 'C:\\Python38\\DLLs\\_bz2.pyd', 'EXTENSION'),
+  ('_socket.pyd', 'C:\\Python38\\DLLs\\_socket.pyd', 'EXTENSION'),
+  ('pyexpat.pyd', 'C:\\Python38\\DLLs\\pyexpat.pyd', 'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Python38\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd', 'C:\\Python38\\DLLs\\_ssl.pyd', 'EXTENSION'),
+  ('_decimal.pyd', 'C:\\Python38\\DLLs\\_decimal.pyd', 'EXTENSION'),
+  ('unicodedata.pyd', 'C:\\Python38\\DLLs\\unicodedata.pyd', 'EXTENSION'),
+  ('pandas\\_libs\\writers.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\writers.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\window\\indexers.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\window\\indexers.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\window\\aggregations.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\window\\aggregations.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\vectorized.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\tslibs\\vectorized.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\tzconversion.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\tslibs\\tzconversion.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\timezones.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\tslibs\\timezones.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\timestamps.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\tslibs\\timestamps.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\timedeltas.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\tslibs\\timedeltas.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\strptime.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\tslibs\\strptime.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\period.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\tslibs\\period.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\parsing.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\tslibs\\parsing.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\offsets.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\tslibs\\offsets.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\np_datetime.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\tslibs\\np_datetime.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\nattype.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\tslibs\\nattype.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\fields.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\tslibs\\fields.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\dtypes.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\tslibs\\dtypes.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\conversion.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\tslibs\\conversion.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\ccalendar.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\tslibs\\ccalendar.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\base.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\tslibs\\base.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\testing.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\testing.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\sparse.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\sparse.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\reshape.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\reshape.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\reduction.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\reduction.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\properties.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\properties.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\parsers.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\parsers.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\ops_dispatch.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\ops_dispatch.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\ops.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\ops.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\missing.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\missing.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\json.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\json.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\join.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\join.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\interval.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\interval.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\internals.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\internals.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\indexing.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\indexing.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\index.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\index.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\hashing.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\hashing.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\groupby.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\groupby.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\arrays.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\arrays.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\algos.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\algos.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\core\\_multiarray_tests.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\numpy\\core\\_multiarray_tests.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\core\\_multiarray_umath.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\numpy\\core\\_multiarray_umath.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\linalg\\lapack_lite.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\numpy\\linalg\\lapack_lite.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd', 'C:\\Python38\\DLLs\\_overlapped.pyd', 'EXTENSION'),
+  ('_asyncio.pyd', 'C:\\Python38\\DLLs\\_asyncio.pyd', 'EXTENSION'),
+  ('numpy\\random\\mtrand.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\numpy\\random\\mtrand.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_sfc64.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\numpy\\random\\_sfc64.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_philox.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\numpy\\random\\_philox.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_pcg64.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\numpy\\random\\_pcg64.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_mt19937.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\numpy\\random\\_mt19937.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\bit_generator.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\numpy\\random\\bit_generator.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_generator.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\numpy\\random\\_generator.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_bounded_integers.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\numpy\\random\\_bounded_integers.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_common.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\numpy\\random\\_common.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\fft\\_pocketfft_internal.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\numpy\\fft\\_pocketfft_internal.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\linalg\\_umath_linalg.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\numpy\\linalg\\_umath_linalg.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('_elementtree.pyd', 'C:\\Python38\\DLLs\\_elementtree.pyd', 'EXTENSION'),
+  ('_sqlite3.pyd', 'C:\\Python38\\DLLs\\_sqlite3.pyd', 'EXTENSION'),
+  ('pandas\\io\\sas\\_sas.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\io\\sas\\_sas.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslib.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\tslib.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\lib.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\lib.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\hashtable.cp38-win_amd64.pyd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\hashtable.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('api-ms-win-crt-private-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-private-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-utility-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-utility-l1-1-0.dll',
+   'BINARY'),
+  ('libffi-7.dll', 'C:\\Python38\\DLLs\\libffi-7.dll', 'BINARY'),
+  ('libcrypto-1_1.dll', 'C:\\Python38\\DLLs\\libcrypto-1_1.dll', 'BINARY'),
+  ('libssl-1_1.dll', 'C:\\Python38\\DLLs\\libssl-1_1.dll', 'BINARY'),
+  ('pandas\\_libs\\window\\MSVCP140.dll',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\window\\MSVCP140.dll',
+   'BINARY'),
+  ('pandas\\_libs\\window\\VCRUNTIME140_1.dll',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\_libs\\window\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('sqlite3.dll', 'C:\\Python38\\DLLs\\sqlite3.dll', 'BINARY'),
+  ('base_library.zip',
+   'F:\\Office\\Office WiP\\Apps\\deh\\deh\\build\\vasiko\\base_library.zip',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tashkent',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tashkent',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Hobart',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Hobart',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Macao',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Macao',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cuiaba',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Cuiaba',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\El_Aaiun',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\El_Aaiun',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Libreville',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Libreville',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Thunder_Bay',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Thunder_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Fort_Wayne',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Fort_Wayne',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santo_Domingo',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Santo_Domingo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kuching',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kuching',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Barthelemy',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\St_Barthelemy',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\North_Dakota\\Center',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\North_Dakota\\Center',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ulan_Bator',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ulan_Bator',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Tiraspol',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Tiraspol',
+   'DATA'),
+  ('pytz\\zoneinfo\\NZ-CHAT',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\NZ-CHAT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Funafuti',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Funafuti',
+   'DATA'),
+  ('pytz\\zoneinfo\\Libya',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Libya',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Rangoon',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Rangoon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Zaporozhye',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Zaporozhye',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yakutsk',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yakutsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\LHI',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\LHI',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Chicago',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Chicago',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Lord_Howe',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Lord_Howe',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santiago',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Santiago',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Sakhalin',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Sakhalin',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Punta_Arenas',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Punta_Arenas',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\McMurdo',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\McMurdo',
+   'DATA'),
+  ('pytz\\zoneinfo\\UTC',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\UTC',
+   'DATA'),
+  ('pytz\\zoneinfo\\Turkey',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Turkey',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Belize',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Belize',
+   'DATA'),
+  ('pytz\\zoneinfo\\Mexico\\BajaNorte',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Mexico\\BajaNorte',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Bishkek',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Bishkek',
+   'DATA'),
+  ('pytz\\zoneinfo\\UCT',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\UCT',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rosario',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Rosario',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Araguaina',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Araguaina',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Barnaul',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Barnaul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\UCT',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\UCT',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Caracas',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Caracas',
+   'DATA'),
+  ('pytz\\zoneinfo\\Universal',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Universal',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dacca',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dacca',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Christmas',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Indian\\Christmas',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-5',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-5',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Luxembourg',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Luxembourg',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\East-Indiana',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\US\\East-Indiana',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\ACT',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\ACT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Mawson',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Mawson',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Tallinn',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Tallinn',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\NSW',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\NSW',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Detroit',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Detroit',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Mexico_City',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Mexico_City',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Chita',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Chita',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+4',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+4',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-2',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-2',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tbilisi',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tbilisi',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Fortaleza',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Fortaleza',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Algiers',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Algiers',
+   'DATA'),
+  ('pytz\\zoneinfo\\GB',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\GB',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\latex_longtable.tpl',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\io\\formats\\templates\\latex_longtable.tpl',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Guadalcanal',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Guadalcanal',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Tahiti',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Tahiti',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Boa_Vista',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Boa_Vista',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Niue',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Niue',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\San_Luis',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\San_Luis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Djibouti',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Djibouti',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-12',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-12',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Kitts',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\St_Kitts',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Fiji',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Fiji',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Montserrat',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Montserrat',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Timbuktu',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Timbuktu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+2',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+2',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Harare',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Harare',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Montreal',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Montreal',
+   'DATA'),
+  ('pytz\\zoneinfo\\Poland',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Poland',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-0',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-0',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rio_Branco',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Rio_Branco',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Lima',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Lima',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Easter',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Easter',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\South',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\South',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-1',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-1',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT+0',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\GMT+0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Chongqing',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Chongqing',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Lower_Princes',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Lower_Princes',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Chuuk',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Chuuk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Melbourne',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Melbourne',
+   'DATA'),
+  ('pytz\\zoneinfo\\Cuba',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Cuba',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Damascus',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Damascus',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+10',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+10',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Irkutsk',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Irkutsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Yap',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Yap',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Norfolk',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Norfolk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\West',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\West',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Adelaide',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Adelaide',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Muscat',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Muscat',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Macau',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Macau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Abidjan',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Abidjan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Bermuda',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Bermuda',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Dawson',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Dawson',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Hong_Kong',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Hong_Kong',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Yakutat',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Yakutat',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kamchatka',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kamchatka',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Prague',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Prague',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Michigan',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\US\\Michigan',
+   'DATA'),
+  ('pytz\\zoneinfo\\tzdata.zi',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\tzdata.zi',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Lucia',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\St_Lucia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Tirane',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Tirane',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Marigot',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Marigot',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Karachi',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Karachi',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Paramaribo',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Paramaribo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Ushuaia',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Ushuaia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Chile\\Continental',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Chile\\Continental',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nipigon',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Nipigon',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Tegucigalpa',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Tegucigalpa',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Atka',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Atka',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Swift_Current',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Swift_Current',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Perth',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Perth',
+   'DATA'),
+  ('pytz\\zoneinfo\\GB-Eire',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\GB-Eire',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Catamarca',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Catamarca',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Newfoundland',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Canada\\Newfoundland',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Enderbury',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Enderbury',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Syowa',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Syowa',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Curacao',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Curacao',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kolkata',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kolkata',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kuwait',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kuwait',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dhaka',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dhaka',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Maceio',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Maceio',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kirov',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kirov',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Anchorage',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Anchorage',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Luanda',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Luanda',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Darwin',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Darwin',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Bahrain',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Bahrain',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lubumbashi',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lubumbashi',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Broken_Hill',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Broken_Hill',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Costa_Rica',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Costa_Rica',
+   'DATA'),
+  ('pytz\\zoneinfo\\leapseconds',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\leapseconds',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Accra',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Accra',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-6',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-6',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Bougainville',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Bougainville',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Kralendijk',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Kralendijk',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Matamoros',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Matamoros',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Chungking',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Chungking',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-9',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-9',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Noronha',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Noronha',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tel_Aviv',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tel_Aviv',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Knox',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Knox',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+9',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+9',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Indiana-Starke',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\US\\Indiana-Starke',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Jakarta',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Jakarta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Honolulu',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Honolulu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Jerusalem',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Jerusalem',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+0',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+0',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Phoenix',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Phoenix',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Blantyre',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Blantyre',
+   'DATA'),
+  ('pytz\\zoneinfo\\Hongkong',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Hongkong',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Grenada',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Grenada',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Samara',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Samara',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Porto-Novo',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Porto-Novo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Riga',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Riga',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Riyadh',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Riyadh',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santarem',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Santarem',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Juneau',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Juneau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\West',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Brazil\\West',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Gibraltar',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Gibraltar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Hebron',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Hebron',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\El_Salvador',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\El_Salvador',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Truk',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Truk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Oral',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Oral',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Samoa',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\US\\Samoa',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Toronto',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Toronto',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Isle_of_Man',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Isle_of_Man',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Barbados',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Barbados',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Johnston',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Johnston',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\latex_table.tpl',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\io\\formats\\templates\\latex_table.tpl',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cancun',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Cancun',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Uzhgorod',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Uzhgorod',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Halifax',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Halifax',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Eastern',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Canada\\Eastern',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Tasmania',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Tasmania',
+   'DATA'),
+  ('pytz\\zoneinfo\\Zulu',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Zulu',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Tell_City',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Tell_City',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rainy_River',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Rainy_River',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Maputo',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Maputo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Marengo',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Marengo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Qostanay',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Qostanay',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Jamaica',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Jamaica',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Buenos_Aires',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Buenos_Aires',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Mayotte',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Indian\\Mayotte',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Antananarivo',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Indian\\Antananarivo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Pacific',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Canada\\Pacific',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Madeira',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Madeira',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Windhoek',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Windhoek',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Addis_Ababa',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Addis_Ababa',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Boise',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Boise',
+   'DATA'),
+  ('pytz\\zoneinfo\\ROC',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\ROC',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Baghdad',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Baghdad',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vilnius',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vilnius',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\La_Rioja',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\La_Rioja',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Tripoli',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Tripoli',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Sao_Tome',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Sao_Tome',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Vostok',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Vostok',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Baku',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Baku',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Thimbu',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Thimbu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Aqtau',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Aqtau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Jersey',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Jersey',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Amsterdam',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Amsterdam',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Metlakatla',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Metlakatla',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Winamac',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Winamac',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Saigon',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Saigon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\South_Georgia',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\South_Georgia',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Mountain',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\US\\Mountain',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-14',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-14',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Magadan',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Magadan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tomsk',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tomsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Dominica',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Dominica',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Bangkok',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Bangkok',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guyana',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Guyana',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Mazatlan',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Mazatlan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Qatar',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Qatar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Wake',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Wake',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Reunion',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Indian\\Reunion',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Macquarie',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Macquarie',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Amman',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Amman',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cayenne',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Cayenne',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Pago_Pago',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Pago_Pago',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Chihuahua',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Chihuahua',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Ouagadougou',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Ouagadougou',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-4',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-4',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Pyongyang',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Pyongyang',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Sofia',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Sofia',
+   'DATA'),
+  ('pytz\\zoneinfo\\CST6CDT',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\CST6CDT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Malta',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Malta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Central',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Canada\\Central',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bangui',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bangui',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kyiv',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kyiv',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Khandyga',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Khandyga',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Chatham',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Chatham',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Menominee',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Menominee',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Ceuta',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Ceuta',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT0',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\GMT0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Krasnoyarsk',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Krasnoyarsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Athens',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Athens',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Dakar',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Dakar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vaduz',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vaduz',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Pangnirtung',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Pangnirtung',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ujung_Pandang',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ujung_Pandang',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Los_Angeles',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Los_Angeles',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Rothera',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Rothera',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Indianapolis',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Indianapolis',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Virgin',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Virgin',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\ComodRivadavia',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\ComodRivadavia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Tarawa',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Tarawa',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Famagusta',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Famagusta',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Thomas',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\St_Thomas',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Grand_Turk',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Grand_Turk',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Recife',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Recife',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dushanbe',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dushanbe',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Creston',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Creston',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Nicosia',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Nicosia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Novokuznetsk',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Novokuznetsk',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\latex.tpl',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\io\\formats\\templates\\latex.tpl',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Singapore',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Singapore',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Colombo',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Colombo',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\html.tpl',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\io\\formats\\templates\\html.tpl',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Nairobi',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Nairobi',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Jujuy',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Jujuy',
+   'DATA'),
+  ('pytz\\zoneinfo\\W-SU',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\W-SU',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Brunei',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Brunei',
+   'DATA'),
+  ('pytz\\zoneinfo\\HST',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\HST',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Vladivostok',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Vladivostok',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Yukon',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Canada\\Yukon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Jayapura',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Jayapura',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Petersburg',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Petersburg',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kuala_Lumpur',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kuala_Lumpur',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Dar_es_Salaam',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Dar_es_Salaam',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Galapagos',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Galapagos',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Godthab',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Godthab',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\html_style.tpl',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\io\\formats\\templates\\html_style.tpl',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Maldives',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Indian\\Maldives',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kabul',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kabul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Banjul',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Banjul',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Martinique',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Martinique',
+   'DATA'),
+  ('pytz\\zoneinfo\\Iceland',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Iceland',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Queensland',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Queensland',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Denver',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Denver',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Noumea',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Noumea',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Vevay',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Vevay',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Moscow',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Moscow',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nome',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Nome',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Coral_Harbour',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Coral_Harbour',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Ojinaga',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Ojinaga',
+   'DATA'),
+  ('pytz\\zoneinfo\\Kwajalein',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Kwajalein',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Zagreb',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Zagreb',
+   'DATA'),
+  ('pytz\\zoneinfo\\Eire',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Eire',
+   'DATA'),
+  ('pytz\\zoneinfo\\Arctic\\Longyearbyen',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Arctic\\Longyearbyen',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\Greenwich',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\Greenwich',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dubai',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dubai',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Auckland',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Auckland',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Mountain',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Canada\\Mountain',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Novosibirsk',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Novosibirsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ho_Chi_Minh',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ho_Chi_Minh',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Sitka',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Sitka',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bamako',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bamako',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Knox_IN',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Knox_IN',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Pitcairn',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Pitcairn',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Shanghai',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Shanghai',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Chagos',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Indian\\Chagos',
+   'DATA'),
+  ('pytz\\zoneinfo\\Navajo',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Navajo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bissau',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bissau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Bratislava',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Bratislava',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Sydney',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Sydney',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Mariehamn',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Mariehamn',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Louisville',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Louisville',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\East',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Brazil\\East',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tokyo',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tokyo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Blanc-Sablon',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Blanc-Sablon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ashkhabad',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ashkhabad',
+   'DATA'),
+  ('pytz\\zoneinfo\\NZ',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\NZ',
+   'DATA'),
+  ('pytz\\zoneinfo\\ROK',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\ROK',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Adak',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Adak',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Belfast',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Belfast',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Juba',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Juba',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Ponape',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Ponape',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Casey',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Casey',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Vincent',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\St_Vincent',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Pacific',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\US\\Pacific',
+   'DATA'),
+  ('pytz\\zoneinfo\\Greenwich',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Greenwich',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kashgar',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kashgar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Currie',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Currie',
+   'DATA'),
+  ('pytz\\zoneinfo\\Portugal',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Portugal',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Mendoza',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Mendoza',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Skopje',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Skopje',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Kigali',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Kigali',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indianapolis',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Indianapolis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\London',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\London',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Casablanca',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Casablanca',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Pontianak',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Pontianak',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ashgabat',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ashgabat',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Porto_Acre',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Porto_Acre',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Nauru',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Nauru',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Alaska',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\US\\Alaska',
+   'DATA'),
+  ('pytz\\zoneinfo\\EET',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\EET',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Eirunepe',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Eirunepe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Stockholm',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Stockholm',
+   'DATA'),
+  ('pytz\\zoneinfo\\MST',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\MST',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Asuncion',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Asuncion',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Simferopol',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Simferopol',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Ciudad_Juarez',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Ciudad_Juarez',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Miquelon',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Miquelon',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Thule',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Thule',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Calcutta',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Calcutta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Srednekolymsk',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Srednekolymsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Troll',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Troll',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guadeloupe',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Guadeloupe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Choibalsan',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Choibalsan',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Regina',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Regina',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Goose_Bay',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Goose_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Edmonton',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Edmonton',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cambridge_Bay',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Cambridge_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Johns',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\St_Johns',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Harbin',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Harbin',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Brisbane',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Brisbane',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Victoria',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Victoria',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Hovd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Hovd',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Cocos',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Indian\\Cocos',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Arizona',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\US\\Arizona',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Midway',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Midway',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Tijuana',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Tijuana',
+   'DATA'),
+  ('pytz\\zoneinfo\\CET',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\CET',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Bahia_Banderas',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Bahia_Banderas',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Cairo',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Cairo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Qyzylorda',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Qyzylorda',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lagos',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lagos',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Malabo',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Malabo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\San_Marino',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\San_Marino',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rankin_Inlet',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Rankin_Inlet',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+6',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+6',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kanton',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kanton',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Mogadishu',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Mogadishu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Israel',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Israel',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\North_Dakota\\New_Salem',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\North_Dakota\\New_Salem',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Port_Moresby',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Port_Moresby',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Johannesburg',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Johannesburg',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Canary',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Canary',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Faeroe',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Faeroe',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Tucuman',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Tucuman',
+   'DATA'),
+  ('pytz\\zoneinfo\\PST8PDT',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\PST8PDT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Azores',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Azores',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Glace_Bay',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Glace_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\Mexico\\General',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Mexico\\General',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Comoro',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Indian\\Comoro',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\string.tpl',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\io\\formats\\templates\\string.tpl',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+3',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+3',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Saskatchewan',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Canada\\Saskatchewan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Lisbon',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Lisbon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Bucharest',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Bucharest',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Iqaluit',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Iqaluit',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Kerguelen',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Indian\\Kerguelen',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\GMT',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Kentucky\\Louisville',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Kentucky\\Louisville',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Tunis',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Tunis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ulaanbaatar',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ulaanbaatar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Kinshasa',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Kinshasa',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yerevan',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yerevan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Douala',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Douala',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Majuro',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Majuro',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Cordoba',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Cordoba',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ust-Nera',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ust-Nera',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Sarajevo',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Sarajevo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Managua',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Managua',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Istanbul',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Istanbul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\St_Helena',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\St_Helena',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Rome',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Rome',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+1',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+1',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Dawson_Creek',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Dawson_Creek',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Salta',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Salta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Volgograd',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Volgograd',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Phnom_Penh',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Phnom_Penh',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nassau',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Nassau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kathmandu',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kathmandu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Manila',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Manila',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Catamarca',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Catamarca',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Buenos_Aires',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Buenos_Aires',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Rarotonga',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Rarotonga',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Stanley',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Stanley',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Tongatapu',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Tongatapu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Pohnpei',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Pohnpei',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Vancouver',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Vancouver',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Panama',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Panama',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Nicosia',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Nicosia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Brazzaville',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Brazzaville',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Asmera',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Asmera',
+   'DATA'),
+  ('pytz\\zoneinfo\\Egypt',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Egypt',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kwajalein',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kwajalein',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Katmandu',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Katmandu',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guayaquil',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Guayaquil',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Istanbul',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Istanbul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Jamaica',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Jamaica',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Rio_Gallegos',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Rio_Gallegos',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Monrovia',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Monrovia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Saratov',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Saratov',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Danmarkshavn',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Danmarkshavn',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Dublin',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Dublin',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Beirut',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Beirut',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Efate',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Efate',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Port-au-Prince',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Port-au-Prince',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Jan_Mayen',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Jan_Mayen',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Palau',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Palau',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Belem',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Belem',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+11',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+11',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Nouakchott',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Nouakchott',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\San_Juan',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\San_Juan',
+   'DATA'),
+  ('pytz\\zoneinfo\\zone1970.tab',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\zone1970.tab',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kiev',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kiev',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Helsinki',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Helsinki',
+   'DATA'),
+  ('pytz\\zoneinfo\\iso3166.tab',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\iso3166.tab',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT-0',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\GMT-0',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Port_of_Spain',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Port_of_Spain',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guatemala',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Guatemala',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Niamey',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Niamey',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Makassar',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Makassar',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Tortola',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Tortola',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kaliningrad',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kaliningrad',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Kentucky\\Monticello',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Kentucky\\Monticello',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lusaka',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lusaka',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Saipan',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Saipan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Yancowinna',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Yancowinna',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Manaus',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Manaus',
+   'DATA'),
+  ('pytz\\zoneinfo\\EST',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\EST',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\North_Dakota\\Beulah',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\North_Dakota\\Beulah',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Almaty',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Almaty',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Havana',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Havana',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT0',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Belgrade',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Belgrade',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Atyrau',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Atyrau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Mexico\\BajaSur',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Mexico\\BajaSur',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Vientiane',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Vientiane',
+   'DATA'),
+  ('pytz\\zoneinfo\\Singapore',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Singapore',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\Zulu',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\Zulu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Atlantic',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Canada\\Atlantic',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-10',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-10',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+12',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+12',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Eastern',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\US\\Eastern',
+   'DATA'),
+  ('pytz\\zoneinfo\\Iran',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Iran',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Aleutian',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\US\\Aleutian',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Conakry',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Conakry',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Canberra',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Canberra',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Reykjavik',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Reykjavik',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Urumqi',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Urumqi',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Andorra',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Andorra',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Hermosillo',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Hermosillo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-11',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-11',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Central',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\US\\Central',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Puerto_Rico',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Puerto_Rico',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Mbabane',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Mbabane',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bujumbura',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bujumbura',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Sao_Paulo',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Sao_Paulo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Antigua',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Antigua',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Ndjamena',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Ndjamena',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Khartoum',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Khartoum',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+8',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+8',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Moncton',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Moncton',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Freetown',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Freetown',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Madrid',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Madrid',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Yellowknife',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Yellowknife',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Ulyanovsk',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Ulyanovsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kosrae',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kosrae',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Davis',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Davis',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Mendoza',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Mendoza',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-3',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-3',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Atikokan',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Atikokan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Guernsey',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Guernsey',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Oslo',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Oslo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Mauritius',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Indian\\Mauritius',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Busingen',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Busingen',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Winnipeg',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Winnipeg',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Apia',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Apia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Berlin',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Berlin',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\html_table.tpl',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pandas\\io\\formats\\templates\\html_table.tpl',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Marquesas',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Marquesas',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Vincennes',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Vincennes',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Eucla',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Eucla',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Monterrey',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Monterrey',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Inuvik',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Inuvik',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Copenhagen',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Copenhagen',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Palmer',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Palmer',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\South_Pole',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\South_Pole',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Bahia',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Bahia',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Anguilla',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Anguilla',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Ljubljana',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Ljubljana',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-8',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-8',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-13',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-13',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Jujuy',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Jujuy',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Ensenada',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Ensenada',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Hawaii',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\US\\Hawaii',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Gaza',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Gaza',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Paris',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Paris',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Minsk',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Minsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Omsk',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Omsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Faroe',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Faroe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Chisinau',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Chisinau',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Aruba',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Aruba',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Porto_Velho',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Porto_Velho',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Gambier',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Gambier',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\La_Paz',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\La_Paz',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cayman',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Cayman',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nuuk',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Nuuk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Samarkand',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Samarkand',
+   'DATA'),
+  ('pytz\\zoneinfo\\PRC',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\PRC',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Campo_Grande',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Campo_Grande',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+5',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+5',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Asmara',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Asmara',
+   'DATA'),
+  ('pytz\\zoneinfo\\MET',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\MET',
+   'DATA'),
+  ('pytz\\zoneinfo\\MST7MDT',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\MST7MDT',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Fort_Nelson',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Fort_Nelson',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Kampala',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Kampala',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santa_Isabel',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Santa_Isabel',
+   'DATA'),
+  ('pytz\\zoneinfo\\Factory',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Factory',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\New_York',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\New_York',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Gaborone',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Gaborone',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vienna',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vienna',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Wallis',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Wallis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Monaco',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Monaco',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Bogota',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Bogota',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yangon',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yangon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lome',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lome',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Thimphu',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Thimphu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Anadyr',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Anadyr',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Taipei',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Taipei',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vatican',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vatican',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tehran',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tehran',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\DeNoronha',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Brazil\\DeNoronha',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\Acre',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Brazil\\Acre',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Merida',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Merida',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Zurich',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Zurich',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dili',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dili',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\Universal',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\Universal',
+   'DATA'),
+  ('pytz\\zoneinfo\\zone.tab',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\zone.tab',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Scoresbysund',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Scoresbysund',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Warsaw',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Warsaw',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\North',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\North',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+7',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+7',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Resolute',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Resolute',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\DumontDUrville',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\DumontDUrville',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Fakaofo',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Fakaofo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Aden',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Aden',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Cape_Verde',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Cape_Verde',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Astrakhan',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Astrakhan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\UTC',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\UTC',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Budapest',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Budapest',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Mahe',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Indian\\Mahe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yekaterinburg',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yekaterinburg',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Whitehorse',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Whitehorse',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Podgorica',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Podgorica',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-7',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-7',
+   'DATA'),
+  ('pytz\\zoneinfo\\EST5EDT',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\EST5EDT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Brussels',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Brussels',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Lindeman',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Lindeman',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Samoa',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Samoa',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Shiprock',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Shiprock',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Seoul',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Seoul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Chile\\EasterIsland',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Chile\\EasterIsland',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kiritimati',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kiritimati',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Guam',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Guam',
+   'DATA'),
+  ('pytz\\zoneinfo\\WET',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\WET',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Aqtobe',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Aqtobe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Japan',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Japan',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cordoba',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Cordoba',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Montevideo',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\America\\Montevideo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Maseru',
+   'f:\\office\\office '
+   'wip\\apps\\deh\\env\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Maseru',
+   'DATA')],
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
