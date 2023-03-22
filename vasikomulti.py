@@ -43,17 +43,17 @@ def parse_file():
 
 
     parsed_data = [] # returned array by line
-    for root, dirs, files in os.walk("/inp"):
-        for file in files:
+    #for root, dirs, files in os.walk("/inp"):
+    for file in file_list:
 
-            with open(file, "r") as f:
+        with open(file_list/file, "r") as f:
 
-                for line in f: #loop through lines
-                    #split each line by the indices
-                    #parts = [data_mov] + [line.rstrip()[i:j] for i,j in zip(indices, indices[1:]+[None])]
-                    parts =[line[i:j] for i,j in zip(ind2, ind2[1:])]
-                    parsed_data.append(parts)
-                    print(len(parsed_data))
+            for line in f: #loop through lines
+                #split each line by the indices
+                #parts = [data_mov] + [line.rstrip()[i:j] for i,j in zip(indices, indices[1:]+[None])]
+                parts =[line[i:j] for i,j in zip(ind2, ind2[1:])]
+                parsed_data.append(parts)
+                print(len(parsed_data))
 
 
 
