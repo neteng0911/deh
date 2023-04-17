@@ -1,1 +1,4 @@
-dehenv/ dist/ build/ .idea/
+dehenv/
+dist/ 
+build/ 
+.idea/
