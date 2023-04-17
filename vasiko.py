@@ -70,7 +70,7 @@ def parse_file():
         # print(type(col2))
         # df.columns=col2
 
-        with pd.ExcelWriter('vasiko.xls') as writer:
+        with pd.ExcelWriter('vasiko.xlsx') as writer:
             df2.to_excel(writer)
     #print('number_of_excel_col=' + str(len(columns)))
     print('number of excel columns')
